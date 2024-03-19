@@ -1,4 +1,5 @@
 /venv
+/venv2
 /.vagrant
 /scrapy.iml
 *.pyc
