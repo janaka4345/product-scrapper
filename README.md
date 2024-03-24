@@ -7,3 +7,5 @@
 - scrapy
 - scrappy with selenium
 - playwright
+
+- selenium-scrapy workaround [https://www.zenrows.com/blog/scrapy-selenium#interact-with-web-pages]
